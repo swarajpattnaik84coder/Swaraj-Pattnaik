@@ -24,18 +24,10 @@ and I don't stop.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=swarajpattnaik84coder&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=swarajpattnaik84coder&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=swarajpattnaik84coder&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🏆 Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=swarajpattnaik84coder&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
